@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN Stack Developer From Tunisia</h3>
 <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" alt="just me coding in peace">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chahinefehri7&label=Profile%20views&color=0e75b6&style=flat" alt="chahinefehri7" /> </p>
 
 - 🔭 I’m currently working on Supersiesta-Home
 
