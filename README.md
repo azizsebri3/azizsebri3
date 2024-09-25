@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Sebri</h1>
-<h3 align="center" style="margin:30px">A passionate MERN Stack developer from Tunisia <img  alt="coding"   width="600" src="https://www.codefeast.in/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdscycqmhw%2Fimage%2Fupload%2Fv1708174646%2FCodefeast%2FCourses%2Fwtqss28inwyucb30m0hd.gif&w=1080&q=75"></h3>
+<h3 align="center" style="margin:30px">A passionate MERN Stack developer from Tunisia based in belgium <img  alt="coding"   width="600" src="https://www.codefeast.in/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdscycqmhw%2Fimage%2Fupload%2Fv1708174646%2FCodefeast%2FCourses%2Fwtqss28inwyucb30m0hd.gif&w=1080&q=75"></h3>
 
 
 - 🔭 I’m currently working on [Supersiesta-Home](https://www.supersiesta-home.tn/)
