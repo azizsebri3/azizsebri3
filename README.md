@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Supersiesta-Home](https://www.supersiesta-home.tn/)
 
-- 👨‍💻 All of my projects are available at [https://www.sebri.tech/](https://www.aziz-sebri.site/)
+- 👨‍💻 All of my projects are available at [https://www.Aziz-site.site/](https://www.aziz-sebri.site/)
 
 - 📫 How to reach me **sebriaziz2016@gmail.com**
 
